@@ -6,18 +6,18 @@ This Language is Esoteric and as of right now just a concept (it will also be wr
 
 ### Print Statement
 
-`print_to_the_console(`_message_`)`
+`print_to_the_console(`_`message`_`)`
 
 ### Input
 
-`request_input_from_the_user(`_prompt_`)`
+`request_input_from_the_user(`_`prompt`_`)`
 
 ### Variables
 
-`declare_a_variable_named `_variable_` equal_to` _value_
-`let_the_variable_known_as `_variable_` equal_to` _value_
+`declare_a_variable_named `_`variable`_` equal_to` _`value`_
+`let_the_variable_known_as `_`variable`_` equal_to` _`value`_
 
 ### Lists
 
-`declare_a_variable_named `_list_` equal_to multiple_values[`_value_,_value_,_value_`]`
-_list_.`insert_value_at_the_index(`_value_,_index_`)`
+`declare_a_variable_named `_`list`_` equal_to multiple_values[`_`value`_,_`value`_,_`value`_`]`
+_`list`_.`insert_value_at_the_index(`_`value`_,_`index`_`)`
