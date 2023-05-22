@@ -24,6 +24,7 @@ This Language is Esoteric and as of right now just a concept (it will also be wr
 
 
 `declare_a_variable `_`variable`_` equal_to` _`value`_
+
 `let_the_variable_known_as `_`variable`_` equal_to` _`value`_
 
 
@@ -31,6 +32,7 @@ This Language is Esoteric and as of right now just a concept (it will also be wr
 -----
 
 `declare_a_variable `_`list`_` equal_to multiple_values[`_`value`_,_`value`_,_`value`_`]`
+
 _`list`_.`insert_value_at_the_index(`_`value`_,_`index`_`)`
 
 
@@ -57,10 +59,34 @@ _`list`_.`insert_value_at_the_index(`_`value`_,_`index`_`)`
 -----
 
 `declare_a_class `_`class`_`{
-    declare_a_function `_`constructor`_` with_the_parameters(`_`this_instance`_`){
-        this_instance.`_`attribute`_` equal_to `_`value`_`,
-        this_instance.`_`method`_` equal_to declare_a_function with_the_parameters(`_`param`_`){
+    declare_a_function `_`constructor`_` with_the_parameters(`_`this_instance`_`,`_`param`_`){
+        this_instance.`_`attribute`_` equal_to `_`param`_`,
+        this_instance.`_`method`_` equal_to declare_a_function with_the_parameters(`_`param1`_`){
             //body
         },
     }, 
+}`
+
+`declare_a_variable `_`object_instance`_`equal_to new_instance_of `_`class`_`(`_`param`_`)`
+
+
+### If Statements
+-----
+
+`if_the_condition `_`condition`_`is_met{
+    //body
+} otherwise {
+    //body
+}`
+
+
+### Loops
+-----
+
+`while_the_condition `_`condition`_`is_met{
+    //body
+}`
+
+`for_each `_`thing_here`_`do_the_following{
+    //body
 }`
