@@ -40,9 +40,7 @@ This Language is Esoteric and as of right now just a concept (it will also be wr
 -----
 
 `declare_a_function function with_the_parameters(param){
-
     //body
-    
 }`
 
 
@@ -50,15 +48,10 @@ This Language is Esoteric and as of right now just a concept (it will also be wr
 -----
 
 `declare_a_variable object equal_to object{
-
     attribute equal_to value,
-    
     method equal_to declare_a_function with_the_parameters(param){
-    
         //body
-    
     },
-
 }`
 
 
@@ -66,19 +59,12 @@ This Language is Esoteric and as of right now just a concept (it will also be wr
 -----
 
 `declare_a_class class{
-
     declare_a_function constructor with_the_parameters(this_instance,param){
-    
         this_instance.attribute equal_to param,
-        
         this_instance.method equal_to declare_a_function with_the_parameters(param1){
-        
             //body
-            
         },
-        
     }, 
-    
 }`
 
 `declare_a_variable object equal_to new_instance_of class(param)`
@@ -88,13 +74,9 @@ This Language is Esoteric and as of right now just a concept (it will also be wr
 -----
 
 `if_the_condition condition is_met{
-
     //body
-    
 } otherwise {
-
     //body
-    
 }`
 
 
@@ -102,13 +84,9 @@ This Language is Esoteric and as of right now just a concept (it will also be wr
 -----
 
 `while_the_condition condition is_met{
-
     //body
-    
 }`
 
 `for_each `_`thing_here`_`do_the_following{
-
     //body
-    
 }`
