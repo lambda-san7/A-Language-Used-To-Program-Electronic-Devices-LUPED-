@@ -40,7 +40,9 @@ _`list`_.`insert_value_at_the_index(`_`value`_,_`index`_`)`
 -----
 
 `declare_a_function `_`function`_` with_the_parameters(`_`param`_`){
+
     //body
+    
 }`
 
 
@@ -48,10 +50,15 @@ _`list`_.`insert_value_at_the_index(`_`value`_,_`index`_`)`
 -----
 
 `declare_a_variable `_`object`_` equal_to object{
+
     `_`attribute`_` equal_to `_`value`_`,
+    
     `_`method`_` equal_to declare_a_function with_the_parameters(`_`param`_`){
+    
         //body
+    
     },
+
 }`
 
 
@@ -59,12 +66,19 @@ _`list`_.`insert_value_at_the_index(`_`value`_,_`index`_`)`
 -----
 
 `declare_a_class `_`class`_`{
+
     declare_a_function `_`constructor`_` with_the_parameters(`_`this_instance`_`,`_`param`_`){
+    
         this_instance.`_`attribute`_` equal_to `_`param`_`,
+        
         this_instance.`_`method`_` equal_to declare_a_function with_the_parameters(`_`param1`_`){
+        
             //body
+            
         },
+        
     }, 
+    
 }`
 
 `declare_a_variable `_`object_instance`_`equal_to new_instance_of `_`class`_`(`_`param`_`)`
@@ -74,9 +88,13 @@ _`list`_.`insert_value_at_the_index(`_`value`_,_`index`_`)`
 -----
 
 `if_the_condition `_`condition`_`is_met{
+
     //body
+    
 } otherwise {
+
     //body
+    
 }`
 
 
@@ -84,9 +102,13 @@ _`list`_.`insert_value_at_the_index(`_`value`_,_`index`_`)`
 -----
 
 `while_the_condition `_`condition`_`is_met{
+
     //body
+    
 }`
 
 `for_each `_`thing_here`_`do_the_following{
+
     //body
+    
 }`
