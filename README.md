@@ -6,6 +6,10 @@ This Language is Esoteric and as of right now just a concept (it will also be wr
 -----
 -----
 
+### Comments
+-----
+
+
 
 ### Print Statement
 -----
@@ -90,3 +94,8 @@ This Language is Esoteric and as of right now just a concept (it will also be wr
 `for_each `_`thing_here`_`do_the_following{
     //body
 }`
+
+## Examples
+-----
+
+`COMING VERY SOON`
