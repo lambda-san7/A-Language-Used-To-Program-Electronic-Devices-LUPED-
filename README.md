@@ -4,12 +4,11 @@ This Language is Esoteric and as of right now just a concept (it will also be wr
 
 # LUPED
 -----
------
 
 ### Comments
 -----
 
-
+`ignore_this_peice_of_code: comment`
 
 ### Print Statement
 -----
