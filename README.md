@@ -94,6 +94,14 @@ This Language is Esoteric and as of right now just a concept (it will also be wr
     //body
 }`
 
+## Switch Case
+-----
+`compare_the_following_value variable:
+     if_the_following_value_is_equal_to value:
+         //body
+     incase_no_value_matches:
+         //default
+`
 ## Examples
 -----
 
